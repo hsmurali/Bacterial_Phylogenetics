@@ -1,0 +1,5 @@
+rbfA.faa
+purH.faa
+recO.faa
+recR.faa
+prmC.faa
